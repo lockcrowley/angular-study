@@ -1,11 +1,11 @@
 .cabecalho {
   display: flex;
+  align-items: center;
   justify-content: space-around;
   background-color: #009966;
-  padding: 0 1vh;
 }
 
 img.logo {
-  height: 4vh;
-  width: 3vw;
+  height: 10vh;
+  width: 5vw;
 }

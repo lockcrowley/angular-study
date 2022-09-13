@@ -1,5 +1,10 @@
 .rodape {
   background-color: #09724f;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.dev {
+  color: #FFF;
 }
